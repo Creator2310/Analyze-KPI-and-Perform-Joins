@@ -1,0 +1,11 @@
+Laptop_ID,Brand,Model,Processor,RAM_GB,Storage_GB,Price,Rating
+L001,Dell,Inspiron 15,i5,8,512,65000,4.2
+L002,HP,Pavilion 14,i7,16,512,78000,4.5
+L003,Lenovo,IdeaPad 3,i3,8,256,45000,4.0
+L004,Asus,Vivobook S14,i5,8,512,62000,4.3
+L005,Apple,MacBook Air M2,M2,8,256,125000,4.8
+L006,Acer,Aspire 5,i5,16,512,58000,4.1
+L007,Dell,XPS 13,i7,16,512,110000,4.6
+L008,Lenovo,ThinkPad E14,i5,16,512,72000,4.4
+L009,HP,Envy 13,i7,16,512,98000,4.7
+L010,Asus,TUF Gaming F15,i5,16,1024,88000,4.5
